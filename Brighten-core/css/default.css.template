@@ -28,7 +28,9 @@ input:focus:-moz-placeholder {
 input:focus::-moz-placeholder {
     color: transparent;
 }
-
+.homeCarousel.flexslider .slides img {
+    width: 100%;
+}
 
 html, body {
   height: 100%;
